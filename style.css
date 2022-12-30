@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.playground {
+  width: 100vw;
+  height: 100vh;
+  background: black;
+  touch-action: none;
+}
+
+.dot {
+  border-radius: 50%;
+  background-color: red;
+  position: absolute;
+  margin: 0;
+  padding: 0;
+}
